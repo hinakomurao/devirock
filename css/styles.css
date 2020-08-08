@@ -1,0 +1,21 @@
+
+
+.top{
+  text-align: center;
+  padding-top: 80px;
+}
+
+.item-box{
+  position: relative;
+  width: 800px;
+  padding: 20px 80px;
+  margin: 60px auto;
+  border: 2px solid black;
+}
+
+.item-text{
+  display: inline-block;
+  position: absolute;
+  top: 20px;
+  left: 520px;
+}
